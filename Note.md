@@ -1,7 +1,7 @@
 ### Purpose
 
 - Search input file for matches to the _patterns_.
-- Result are lines have patterns.
+- Result are __lines__ have patterns.
 - Noway to match newline in a text.
 
 ### Invoke
